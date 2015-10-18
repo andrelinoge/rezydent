@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a401e8c4-fbba-4d52-a257-8658d8c46768" name="Default" comment="" />
+    <ignored path="rezident.local.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/index.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368044846813" ignored="false" />
+    <file path="/Embassies.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363768110261" ignored="false" />
+    <file path="/EmbassiesController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365965534065" ignored="false" />
+    <file path="/show.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367153201404" ignored="false" />
+    <file path="$PROJECT_DIR$/application/public/assets/b2e69207/yii.debugtoolbar.css" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367489877971" ignored="false" />
+    <file path="/sub-page.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363770028858" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/config/main.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366631050443" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/backend.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363770549251" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/models/UserProfile.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363895186708" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/backend/moderators/edit.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363889168509" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/controllers/backend/ModeratorsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363888580700" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/forms/Common/ProfileForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363888247057" ignored="false" />
+    <file path="/ProfileForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363888246690" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/models/User.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363895356398" ignored="false" />
+    <file path="/User.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367477261102" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/controllers/frontend/CompanyController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363773681267" ignored="false" />
+    <file path="/CompanyController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363772917945" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/frontend/company/agents.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364376743620" ignored="false" />
+    <file path="/agents.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363889501323" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/models/UserPositions.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363773780440" ignored="false" />
+    <file path="/UserPositions.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363773776278" ignored="false" />
+    <file path="/TicketsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365414888295" ignored="false" />
+    <file path="/air.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365449196749" ignored="false" />
+    <file path="/FrontendController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366292402846" ignored="false" />
+    <file path="/News.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366627608325" ignored="false" />
+    <file path="/NewsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366550710093" ignored="false" />
+    <file path="/main.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365503728801" ignored="false" />
+    <file path="/style.css" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367486596788" ignored="false" />
+    <file path="/BaseArticleTable.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365114070372" ignored="false" />
+    <file path="/BaseTable.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368776197057" ignored="false" />
+    <file path="/ExchangeRate.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367356377884" ignored="false" />
+    <file path="/exchange-rate.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364116552072" ignored="false" />
+    <file path="/home-page.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364323311685" ignored="false" />
+    <file path="/faq.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364715357291" ignored="false" />
+    <file path="/_form.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367240624812" ignored="false" />
+    <file path="/frontend.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363811458975" ignored="false" />
+    <file path="/LastNews.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364320773046" ignored="false" />
+    <file path="/last-news.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365105182672" ignored="false" />
+    <file path="/slider.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364462515834" ignored="false" />
+    <file path="/Slider.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368775371820" ignored="false" />
+    <file path="/ToursController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365363537526" ignored="false" />
+    <file path="/Propositions.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365112320199" ignored="false" />
+    <file path="/PropositionController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365965765948" ignored="false" />
+    <file path="/a.dummy" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367484718086" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/models/Services.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363871519200" ignored="false" />
+    <file path="/Services.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363871519200" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/layouts/backend.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363883695692" ignored="false" />
+    <file path="/backend.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367476101605" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/models/InfoBlocks.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363883429008" ignored="false" />
+    <file path="/InfoBlocks.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363883423193" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/controllers/backend/InfoBlocksController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363883752360" ignored="false" />
+    <file path="/InfoBlocksController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363883686405" ignored="false" />
+    <file path="/UserProfile.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364401643026" ignored="false" />
+    <file path="/ModeratorsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363888575729" ignored="false" />
+    <file path="/edit.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363889137982" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/forms/Frontend/ContactAgentForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363895997875" ignored="false" />
+    <file path="/ContactAgentForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363895887578" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/forms/Frontend/BaseMailForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363895958575" ignored="false" />
+    <file path="/BaseMailForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363895955341" ignored="false" />
+    <file path="/Tours.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1363950701338" ignored="false" />
+    <file path="/tours.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367488337196" ignored="false" />
+    <file path="/StaticPages.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367484514697" ignored="false" />
+    <file path="/BackendController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367484602449" ignored="false" />
+    <file path="/CurrencyModifier.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364133798906" ignored="false" />
+    <file path="/CurrencyModifiersController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364133780995" ignored="false" />
+    <file path="/_list.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366627352599" ignored="false" />
+    <file path="/ListGrid.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367476312184" ignored="false" />
+    <file path="/backend-catalog.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364134553070" ignored="false" />
+    <file path="/backend-catalog-article.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364134569778" ignored="false" />
+    <file path="/ToursChildrenCatalog.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364279595571" ignored="false" />
+    <file path="/ToursChildren.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364147450359" ignored="false" />
+    <file path="/ToursChildrenController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364192341997" ignored="false" />
+    <file path="/ToursHealth.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364194202145" ignored="false" />
+    <file path="/ToursHealthCatalog.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364193436476" ignored="false" />
+    <file path="/ToursHealthController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365966665166" ignored="false" />
+    <file path="/ToursUkraine.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364195095942" ignored="false" />
+    <file path="/ToursUkraineCatalog.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364195115400" ignored="false" />
+    <file path="/ToursUkraineController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364195421377" ignored="false" />
+    <file path="/ToursAbroadController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364195949197" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/views/markedComments/marks_page.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364403309242" ignored="false" />
+    <file path="/marks_page.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364206517738" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/views/markedComments/comments.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364223328581" ignored="false" />
+    <file path="/comments.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364222305629" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/web/js/fling_lib/markedCommentsController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364222122796" ignored="false" />
+    <file path="/markedCommentsController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364221797429" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/controllers/MarkedCommentsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364221272206" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/web/js/fling_lib/imagesController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364559462279" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/web/js/fling_lib/userImagesController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364213668489" ignored="false" />
+    <file path="/userImagesController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364213401987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/views/profileAvatar/_show.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364223135708" ignored="false" />
+    <file path="/_show.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364214390842" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/web/js/fling_lib/profileAvatarController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364475829935" ignored="false" />
+    <file path="/profileAvatarController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364475827139" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/models/AvatarComments.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364214297223" ignored="false" />
+    <file path="/AvatarComments.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364214277612" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/components/widgets/Profile/views/left_profile.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364222948694" ignored="false" />
+    <file path="/left_profile.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364214652098" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/views/images/index.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364216937985" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/views/profile/show_profile.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364222396739" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/models/BaseComments.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364222995715" ignored="false" />
+    <file path="/Dummy.txt" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367351291109" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/commands/BotnetCommand.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364224964911" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/models/User.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364402397125" ignored="false" />
+    <file path="/BotnetCommand.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364224421940" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/models/UserImage.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364224767671" ignored="false" />
+    <file path="/UserImage.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364224759850" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/models/Simpationers.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364411365486" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/modules/Mail/controllers/MailController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364230249078" ignored="false" />
+    <file path="/MailController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364230058939" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/modules/Mail/models/Message.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364230249078" ignored="false" />
+    <file path="/children.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365963830173" ignored="false" />
+    <file path="/UploadImageAction.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364281566368" ignored="false" />
+    <file path="/show-abroad.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365967651762" ignored="false" />
+    <file path="/abroad.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365503598135" ignored="false" />
+    <file path="/error.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364285903467" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/web/js/fling_lib/notifier.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364398808666" ignored="false" />
+    <file path="/ContactForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364504584634" ignored="false" />
+    <file path="/SubscribeForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364506260251" ignored="false" />
+    <file path="/ContactMessage.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364366137715" ignored="false" />
+    <file path="/contact.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365414392204" ignored="false" />
+    <file path="/SiteController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366303667376" ignored="false" />
+    <file path="/Controller.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367305421633" ignored="false" />
+    <file path="/AbstractEmailForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364504278112" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/frontend/company/contact-info-form.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364330880859" ignored="false" />
+    <file path="/frontendController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365276810447" ignored="false" />
+    <file path="/ContactMessagesController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364334301492" ignored="false" />
+    <file path="/ViewAction.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364332634566" ignored="false" />
+    <file path="/backend-messages.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364335015028" ignored="false" />
+    <file path="/view.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367490403194" ignored="false" />
+    <file path="/ConsultationForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364511641632" ignored="false" />
+    <file path="/ConsultationRequest.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364381100959" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/frontend/realEstate/commercials.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364379103788" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/forms/Frontend/RealestateCommercialForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364377861454" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/components/widgets/ModalWindows/views/contact-us.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364379103788" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/public/Frontend/js/application_lib/frontendController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364379103788" ignored="false" />
+    <file path="/ConsultationMessagesController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364381359398" ignored="false" />
+    <file path="/notifier.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364396961367" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/backend/infoBlocks/edit.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364397581357" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/web/js/fling_lib/searchController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364400461591" ignored="false" />
+    <file path="/searchController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364400157626" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/components/widgets/NewMembers/NewMembersWidget.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364402194247" ignored="false" />
+    <file path="/NewMembersWidget.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364402188883" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/models/UserProfile.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364401758110" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/views/markedComments/_next_marks_page.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364403377141" ignored="false" />
+    <file path="/_next_marks_page.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364403373289" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/controllers/SimpationsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364404383535" ignored="false" />
+    <file path="/SimpationsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364404381874" ignored="false" />
+    <file path="/Simpationers.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364411357336" ignored="false" />
+    <file path="/test.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364503806583" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch/protected/controllers/ProfileAvatarController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364476037227" ignored="false" />
+    <file path="/ProfileAvatarController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364471754876" ignored="false" />
+    <file path="/partners.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364718026777" ignored="false" />
+    <file path="/passenger.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365503563541" ignored="false" />
+    <file path="/SubscribersController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364508682923" ignored="false" />
+    <file path="/MassDeliveryForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365968116286" ignored="false" />
+    <file path="/Subscribers.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364507671816" ignored="false" />
+    <file path="/consultation.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364506660404" ignored="false" />
+    <file path="/listForManual.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364507583696" ignored="false" />
+    <file path="/mass-delivery.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364509012151" ignored="false" />
+    <file path="/list-for-manual.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364509674109" ignored="false" />
+    <file path="/_styling.css" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364541544340" ignored="false" />
+    <file path="/backendController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364542154697" ignored="false" />
+    <file path="/UsersController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367490393210" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/index.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364558251399" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/modules/Mail/controllers/MailController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364558631890" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/modules/Mail/models/Message.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364558643900" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/modules/Mail/web/js/MailController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364558768393" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/web/js/fling_lib/profileAvatarController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368643925625" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/web/js/fling_lib/imagesController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364559455946" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/web/js/fling_lib/markedCommentsController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364559483615" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/controllers/SimpationsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364559581457" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/models/Simpationers.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364559602675" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/models/UserProfile.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364560518671" ignored="false" />
+    <file path="/WeatherController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364724575746" ignored="false" />
+    <file path="/resort.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365765637021" ignored="false" />
+    <file path="/sea-temperature.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365765973355" ignored="false" />
+    <file path="/ChangePasswordForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366399572256" ignored="false" />
+    <file path="/ListAction.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364738718631" ignored="false" />
+    <file path="/list.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364743054542" ignored="false" />
+    <file path="/AdminUserForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367242125481" ignored="false" />
+    <file path="/change-password.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1364751822807" ignored="false" />
+    <file path="/uploadController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367243756467" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/components/FileUploader.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365151040597" ignored="false" />
+    <file path="/FileUploader.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365150910542" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/controllers/backend/SiteController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365151441852" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/models/RealEstatePhoto.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365151023130" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/seo/realestate/new-buildings.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365155703810" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/seo/realestate/buy.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365152929401" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/models/RealEstateObject.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365155703810" ignored="false" />
+    <file path="/RealEstateObject.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365155098641" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/backend/realEstate/_form.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365155703810" ignored="false" />
+    <file path="/Media.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365165750582" ignored="false" />
+    <file path="/MediaController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365364133091" ignored="false" />
+    <file path="/LastMedia.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365273824790" ignored="false" />
+    <file path="/last-media.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365362473694" ignored="false" />
+    <file path="/work.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365503568059" ignored="false" />
+    <file path="/ukraine.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365503621937" ignored="false" />
+    <file path="/routes.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365410994645" ignored="false" />
+    <file path="/train.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365503580293" ignored="false" />
+    <file path="/health.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365503606377" ignored="false" />
+    <file path="/config.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1365766174998" ignored="false" />
+    <file path="/SliderController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368775357817" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/components/BaseFrontendController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366631042479" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/layouts/home-page.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366044501072" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/menu/homePage.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366044571916" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/models/News.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366631042479" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/controllers/frontend/NewsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366044808532" ignored="false" />
+    <file path="/params.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366272886962" ignored="false" />
+    <file path="/Country.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366221167261" ignored="false" />
+    <file path="/TripPurpose.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366283166642" ignored="false" />
+    <file path="/MaritalStatus.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366221270180" ignored="false" />
+    <file path="/TripSelf.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366221351029" ignored="false" />
+    <file path="/TripWith.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366221377574" ignored="false" />
+    <file path="/Trip.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367494306933" ignored="false" />
+    <file path="/WebUser.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366225380495" ignored="false" />
+    <file path="/TouristDatingController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368039601076" ignored="false" />
+    <file path="/LoginForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367483924072" ignored="false" />
+    <file path="/Photos.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366624786090" ignored="false" />
+    <file path="/RegistrationForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367305565297" ignored="false" />
+    <file path="/dating.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366276209770" ignored="false" />
+    <file path="/marital-list.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366280020424" ignored="false" />
+    <file path="/RestorePasswordForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366371497814" ignored="false" />
+    <file path="/UserIdentity.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366313266048" ignored="false" />
+    <file path="/restore-password.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366313458495" ignored="false" />
+    <file path="/registration-notification.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366313606541" ignored="false" />
+    <file path="/AccountSideBar.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366611659191" ignored="false" />
+    <file path="/accaunt-side-bar.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366378452670" ignored="false" />
+    <file path="/account-side-bar.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366634893029" ignored="false" />
+    <file path="/fileuploader.css" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366387769491" ignored="false" />
+    <file path="/settings.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366445403339" ignored="false" />
+    <file path="/UpdateProfileForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366401868529" ignored="false" />
+    <file path="/BaseCatalogTable.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366441279901" ignored="false" />
+    <file path="/photos.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366577707816" ignored="false" />
+    <file path="/my-photos.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367486405561" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/backend/news/add.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366548889053" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/public/Common/commonController.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366548889053" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/backend/news/edit.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366549105175" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/controllers/backend/NewsController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366630822108" ignored="false" />
+    <file path="/MessageForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366634986491" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/frontend/news/index.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366631042479" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/frontend/news/_list.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366631042479" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/components/ActiveRecord.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366631042479" ignored="false" />
+    <file path="/ActiveRecord.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366627027033" ignored="false" />
+    <file path="$PROJECT_DIR$/../GorodNewYork/protected/views/frontend/news/view.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366631042479" ignored="false" />
+    <file path="/Messages.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367322609209" ignored="false" />
+    <file path="/messages.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366717366478" ignored="false" />
+    <file path="/_messages.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367322507591" ignored="false" />
+    <file path="/_outcoming.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366715135876" ignored="false" />
+    <file path="/_incoming.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366715144428" ignored="false" />
+    <file path="/frontend-incoming-messages.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366706637024" ignored="false" />
+    <file path="/frontend-outcoming-messages.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366708625453" ignored="false" />
+    <file path="/view-message.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1366713432774" ignored="false" />
+    <file path="/my-trips.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367486736412" ignored="false" />
+    <file path="/_my-past-trips.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367486754770" ignored="false" />
+    <file path="/TripForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367357492024" ignored="false" />
+    <file path="/trip-form.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367141072032" ignored="false" />
+    <file path="/add-edit-trip.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367144510156" ignored="false" />
+    <file path="/_trip-form.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367154857135" ignored="false" />
+    <file path="/frontend-past-trips.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367156465484" ignored="false" />
+    <file path="/my-trip.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367227489353" ignored="false" />
+    <file path="/trips.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367486790547" ignored="false" />
+    <file path="/trip.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367328824186" ignored="false" />
+    <file path="/_past-trips.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367328947729" ignored="false" />
+    <file path="/UserForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367240087268" ignored="false" />
+    <file path="/edit-user.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367243472674" ignored="false" />
+    <file path="/init.layout.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367243672441" ignored="false" />
+    <file path="/_list-users.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367304897673" ignored="false" />
+    <file path="/backend-users.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367314445267" ignored="false" />
+    <file path="/_trips.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367313420448" ignored="false" />
+    <file path="/message.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367324220769" ignored="false" />
+    <file path="/_index.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367487063956" ignored="false" />
+    <file path="/Pager.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367331381313" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/views/profile/show_profile.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367347574344" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/web/js/fling_lib/common-controller.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367351079818" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/components/widgets/views/register.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367350343432" ignored="false" />
+    <file path="/register.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367350326903" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/web/js/register/ruRegisterScript.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367350988975" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/web/js/register/uaRegisterScript.js" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367351000361" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/components/widgets/Profile/views/left_profile.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368643925624" ignored="false" />
+    <file path="/UserCompliants.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367480008914" ignored="false" />
+    <file path="/complaints.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367480921552" ignored="false" />
+    <file path="/UserComplaints.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367489348656" ignored="false" />
+    <file path="/complaint.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367482522402" ignored="false" />
+    <file path="/banned.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367488160340" ignored="false" />
+    <file path="/Complaint.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367485029611" ignored="false" />
+    <file path="/ComplaintForm.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1367487774956" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/views/layouts/main.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368643925624" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flinch_New/protected/views/site/index.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368643925625" ignored="false" />
+    <file path="$PROJECT_DIR$/../toyser.local/application/protected/controllers/backend/SliderController.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368775362408" ignored="false" />
+    <file path="$PROJECT_DIR$/../toyser.local/application/protected/models/active_record/Slider.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368775372925" ignored="false" />
+    <file path="$PROJECT_DIR$/../toyser.local/application/protected/components/mvc_layer/base_tables/BaseTable.php" changelist="a401e8c4-fbba-4d52-a257-8658d8c46768" time="1368776448719" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="rezident.local" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SliderController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/protected/controllers/backend/SliderController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="31" selection-start="481" selection-end="481" vertical-scroll-proportion="-12.583333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SliderModel.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/protected/models/SliderModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="141" column="5" selection-start="2047" selection-end="3634" vertical-scroll-proportion="0.8129371">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/application/protected/views/frontend/touristDating/trips.php" />
+        <option value="$PROJECT_DIR$/application/protected/views/frontend/touristDating/_past-trips.php" />
+        <option value="$PROJECT_DIR$/application/protected/views/frontend/touristDating/_trip-form.php" />
+        <option value="$PROJECT_DIR$/application/protected/views/frontend/touristDating/_index.php" />
+        <option value="$PROJECT_DIR$/application/protected/models/forms/ComplaintForm.php" />
+        <option value="$PROJECT_DIR$/application/public/frontend/style.css" />
+        <option value="$PROJECT_DIR$/application/protected/views/frontend/site/contact.php" />
+        <option value="$PROJECT_DIR$/application/protected/views/frontend/touristDating/banned.php" />
+        <option value="$PROJECT_DIR$/application/protected/widgets/Frontend/Common/views/tours.php" />
+        <option value="$PROJECT_DIR$/application/protected/views/frontend/touristDating/view.php" />
+        <option value="$PROJECT_DIR$/application/protected/models/active_record/UserComplaints.php" />
+        <option value="$PROJECT_DIR$/application/protected/views/backend/users/view.php" />
+        <option value="$PROJECT_DIR$/application/protected/controllers/backend/UsersController.php" />
+        <option value="$PROJECT_DIR$/application/protected/models/active_record/Trip.php" />
+        <option value="$PROJECT_DIR$/application/protected/controllers/frontend/TouristDatingController.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Templated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Templated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Templated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="list-grid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dating" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dating" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="touristDating" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="active_record" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rezident.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="web.server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Altek" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="4631dfd9-08f5-42d7-9ff0-058964bac5c0">
+        <serverdata />
+      </server>
+      <server id="67413d3b-707b-4e69-8472-0dd63e20dc65">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application/protected/views/backend/users" />
+      <recent name="$PROJECT_DIR$/application/protected/views/frontend/touristDating" />
+      <recent name="$PROJECT_DIR$/application/protected/widgets/Templated/views/list-grid" />
+      <recent name="$PROJECT_DIR$/application/protected/models/forms" />
+      <recent name="$PROJECT_DIR$/application/protected/widgets/Templated/views/pager" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application/protected/views/backend/users" />
+      <recent name="$PROJECT_DIR$/application/protected/models/active_record" />
+      <recent name="$PROJECT_DIR$/application/protected/components/third_part" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a401e8c4-fbba-4d52-a257-8658d8c46768" name="Default" comment="" />
+      <created>1363762969590</created>
+      <updated>1363762969590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="0" width="1370" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30151516" sideWeight="0.67255217" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/protected/views/frontend/touristDating/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="93" selection-start="5858" selection-end="5858" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/models/active_record/UserComplaints.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="238" column="12" selection-start="5689" selection-end="5689" vertical-scroll-proportion="-8.958333" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/models/forms/ComplaintForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="32" selection-start="1064" selection-end="1064" vertical-scroll-proportion="1.3898602" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/views/backend/users/_trips.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/views/backend/users/trips.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/controllers/backend/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="42" selection-start="5919" selection-end="5919" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/models/active_record/Trip.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="554" column="65" selection-start="15355" selection-end="15355" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/views/backend/users/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="17" selection-start="8470" selection-end="8470" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/widgets/Frontend/Dating/views/account-side-bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="258" column="76" selection-start="10177" selection-end="10196" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/public/backend/js/init.layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="236" column="24" selection-start="5793" selection-end="5798" vertical-scroll-proportion="0.026737968">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/views/frontend/touristDating/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="0.36713287">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/controllers/frontend/TouristDatingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.026833631">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/public/frontend/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="322" column="12" selection-start="6381" selection-end="6381" vertical-scroll-proportion="0.025728988">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/controllers/backend/SliderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="31" selection-start="481" selection-end="481" vertical-scroll-proportion="-12.583333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/protected/models/SliderModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="5" selection-start="2047" selection-end="3634" vertical-scroll-proportion="0.8129371">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
